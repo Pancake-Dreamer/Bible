@@ -38,5 +38,17 @@
     <ClInclude Include="Giant.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Nation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Apostle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Lord.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Judge.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

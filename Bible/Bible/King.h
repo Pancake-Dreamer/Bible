@@ -34,4 +34,25 @@ public:
 	{
 		return true;
 	}
+
+	bool beMisbehavin()
+	{
+
+	}
+
+	void liveUpToName()
+	{
+
+	}
+
+	void rip()
+	{
+
+	}
+
+	void orderTowerConstruction()
+	{
+
+	}
+
 };

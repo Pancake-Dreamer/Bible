@@ -8,6 +8,10 @@
 #include "Shepherd.h"
 #include "Stone.h"
 #include "Giant.h"
+#include "Nation.h"
+#include "Apostle.h"
+#include "Lord.h"
+#include "Judge.h"
 
 using namespace std;
 //void unleashPlague(string s);
@@ -70,7 +74,7 @@ int main()
 	}*/
 
 
-	Prophet Samuel;
+	/*Prophet Samuel;
 	King Saul;
 	Shepherd David;
 	
@@ -87,7 +91,72 @@ int main()
 	{
 		Samuel.sigh();
 		Samuel.annointNewKing(David);
+	}*/
+
+	/*Prophet Moses;
+	Nation Israelites;
+	int years = 40;
+
+	for (int i = 0; i < years; i++)
+	{
+		Israelites.disobey();
+		Israelites.complain();
+		Moses.sigh();
+	}*/
+
+	/*Prophet Nathan;
+	King David;
+
+	if (David.beMisbehavin())
+	{
+		Nathan.sigh();
+		Nathan.flannelgraph();
+	}*/
+
+	/*Lord Jesus;
+	Apostle Thomas;
+	Apostle Peter;
+	Apostle John;
+
+	if (Jesus.isRisen())
+	{
+		Thomas.doubt();
 	}
+
+	if (Thomas.getDoubts() == true)
+	{
+		Peter.rollEyes();
+		John.rollEyes();
+	}
+
+	Jesus.showScars();
+
+	if (Thomas.hasSeen())
+	{
+		Thomas.awkwardStare();
+	}*/
+
+  /*  King Nimrod;
+	int languageCount = 1;
+
+	Nimrod.liveUpToName();*/
+	
+	Judge Ehud;
+	King Eglon;
+
+	Ehud.setTribe("Benjamin");
+
+	if (Ehud.getTribe() == "Benjamin")
+	{
+		Ehud.setIsLefty(true);
+	}
+
+	if (Ehud.getIsLefty() && Eglon.beMisbehavin())
+	{
+		Ehud.shank(Eglon);
+		Eglon.rip();
+	}
+
 
 	/*Shepherd David;
 	Stone* stones = new Stone[5];

@@ -142,9 +142,13 @@
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Apostle.h" />
     <ClInclude Include="Fish.h" />
     <ClInclude Include="Giant.h" />
+    <ClInclude Include="Judge.h" />
     <ClInclude Include="King.h" />
+    <ClInclude Include="Lord.h" />
+    <ClInclude Include="Nation.h" />
     <ClInclude Include="Prophet.h" />
     <ClInclude Include="Shepherd.h" />
     <ClInclude Include="Stone.h" />
