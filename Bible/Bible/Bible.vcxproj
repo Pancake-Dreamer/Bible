@@ -142,16 +142,22 @@
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Advisor.h" />
     <ClInclude Include="Apostle.h" />
+    <ClInclude Include="Church.h" />
+    <ClInclude Include="Dwelling.h" />
     <ClInclude Include="Fish.h" />
+    <ClInclude Include="Food.h" />
     <ClInclude Include="Giant.h" />
     <ClInclude Include="Judge.h" />
     <ClInclude Include="King.h" />
     <ClInclude Include="Lord.h" />
     <ClInclude Include="Nation.h" />
     <ClInclude Include="Prophet.h" />
+    <ClInclude Include="Queen.h" />
     <ClInclude Include="Shepherd.h" />
     <ClInclude Include="Stone.h" />
+    <ClInclude Include="Type.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

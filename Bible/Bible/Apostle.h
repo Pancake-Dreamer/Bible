@@ -1,5 +1,6 @@
 #pragma once
 #include <string>
+#include "Type.h"
 
 class Apostle
 {
@@ -53,4 +54,19 @@ public:
 	{
 
 	}
+
+	void addressLetterTo(Church c)
+	{
+
+	}
+	void makeAnalogy(Type t)
+	{
+
+	}
+
+	void bomb(Type t)
+	{
+
+	}
+
 };

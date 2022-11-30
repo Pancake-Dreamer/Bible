@@ -12,6 +12,12 @@
 #include "Apostle.h"
 #include "Lord.h"
 #include "Judge.h"
+#include "Church.h"
+#include "Type.h"
+#include "Queen.h"
+#include "Food.h"
+#include "Advisor.h"
+#include "Dwelling.h"
 
 using namespace std;
 //void unleashPlague(string s);
@@ -36,6 +42,8 @@ int main()
 		while (samsonsEyes > 0)
 			samsonsEyes--;
 	}*/
+
+
 
 
 	/*bool pharaohSaysNo = true;
@@ -71,7 +79,54 @@ int main()
 	if (Jonah.getDestination() != "Nineveh")
 	{
 		greatFish.setDestination(Jonah);
+		
 	}*/
+
+
+	/*Queen Vashti;
+	King Xerxes;
+	int time = 0300;
+
+	if (Xerxes.isHungry() && time == 0300)
+	{
+		Xerxes.demandSandwich();
+	}
+
+	if (!Vashti.isObeying())
+	{
+		Xerxes.yeet(Vashti);
+	}*/
+
+	/*Dwelling lionsDen;
+	Advisor a;
+	Food pizza;
+	
+	if (a.getName() == "Daniel")
+	{
+		pizza.setType("pepperoni");
+		lionsDen.serve(pizza);
+	}
+	else
+	{
+		pizza.setType("minced royal advisor");
+		lionsDen.serve(pizza);
+	}*/
+
+
+
+
+	/*Apostle Paul;
+	Church insertChurchHere;
+	Type running;
+	Type truth;
+
+	if (insertChurchHere.beNaughty())
+	{
+		Paul.addressLetterTo(insertChurchHere);
+		Paul.makeAnalogy(running);
+		Paul.bomb(truth);
+	}*/
+
 
 
 	/*Prophet Samuel;
@@ -141,7 +196,7 @@ int main()
 
 	Nimrod.liveUpToName();*/
 	
-	Judge Ehud;
+	/*Judge Ehud;
 	King Eglon;
 
 	Ehud.setTribe("Benjamin");
@@ -155,7 +210,10 @@ int main()
 	{
 		Ehud.shank(Eglon);
 		Eglon.rip();
-	}
+	}*/
+
+	
+
 
 
 	/*Shepherd David;

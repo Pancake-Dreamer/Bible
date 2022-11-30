@@ -17,6 +17,21 @@ public:
 
 	}
 
+	bool isHungry()
+	{
+
+	}
+
+	void yeet(Queen q)
+	{
+
+	}
+
+	void demandSandwich()
+	{
+
+	}
+
 	void incrementDisobedience()
 	{
 		disobedience++;
